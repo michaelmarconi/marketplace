@@ -1,0 +1,16 @@
+{
+  "name": "michaelmarconi",
+  "description": "Claude Code plugins by Michael Marconi.",
+  "owner": { "name": "Michael Marconi" },
+  "plugins": [
+    {
+      "name": "agentic",
+      "description": "Skills for Agentic Engineering: building software with coding agents, with engineering rigour.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/michaelmarconi/agentic-engineering.git",
+        "ref": "claude/project-thread-obiwrw"
+      }
+    }
+  ]
+}
